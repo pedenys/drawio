@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T11:35:31.505Z" agent="5.0 (Macintosh)" etag="UWWKv2RKfzOIX6Kv_91s" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T11:37:45.275Z" agent="5.0 (Macintosh)" etag="kBBMxlK4eK0OVbwucwlm" version="20.5.3" type="github">
   <diagram id="ERy5cmdqRieVJY0Wvs2K" name="Page-1">
     <mxGraphModel dx="1694" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -186,6 +186,12 @@
         </mxCell>
         <mxCell id="WkIkqAgkAF1c_FRq6uk9-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;TABLE DE SALON&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=10.19;" vertex="1" parent="1">
           <mxGeometry x="260" y="135" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkIkqAgkAF1c_FRq6uk9-12" value="n°1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkIkqAgkAF1c_FRq6uk9-13" value="n°2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
