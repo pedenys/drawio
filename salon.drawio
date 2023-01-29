@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T11:37:45.275Z" agent="5.0 (Macintosh)" etag="kBBMxlK4eK0OVbwucwlm" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T12:30:24.821Z" agent="5.0 (Macintosh)" etag="5_8Z77tc_JPjztIc9SlO" version="20.5.3" type="github">
   <diagram id="ERy5cmdqRieVJY0Wvs2K" name="Page-1">
-    <mxGraphModel dx="1694" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1825" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,27 @@
         </mxCell>
         <mxCell id="WkIkqAgkAF1c_FRq6uk9-13" value="n°2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1320" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkIkqAgkAF1c_FRq6uk9-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="210" width="210" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="WkIkqAgkAF1c_FRq6uk9-15" value="&lt;div&gt;L&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;T&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="305" width="60" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="WkIkqAgkAF1c_FRq6uk9-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2161" y="565" width="93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkIkqAgkAF1c_FRq6uk9-16" value="&lt;div&gt;MOR&lt;/div&gt;&lt;div&gt;PHINE&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2177.5" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkIkqAgkAF1c_FRq6uk9-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10.19;rotation=75;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="2035" y="398.4" width="90" height="226.6" as="geometry" />
+        </mxCell>
+        <mxCell id="WkIkqAgkAF1c_FRq6uk9-22" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=#000033;dashed=1;strokeWidth=3;fillStyle=hatch;rotation=76;" vertex="1" parent="1">
+          <mxGeometry x="1939.95" y="249.47" width="210" height="226.11" as="geometry" />
+        </mxCell>
+        <mxCell id="WkIkqAgkAF1c_FRq6uk9-23" value="CANAPÉ-LIT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="1971.87" y="484.24" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
