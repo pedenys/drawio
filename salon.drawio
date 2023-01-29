@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T11:27:51.046Z" agent="5.0 (Macintosh)" etag="UuSmMgSQKYku7OYRpNQM" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T11:31:41.434Z" agent="5.0 (Macintosh)" etag="01u1GbJg1lB23zBdp5bq" version="20.5.3" type="github">
   <diagram id="ERy5cmdqRieVJY0Wvs2K" name="Page-1">
     <mxGraphModel dx="1694" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="TchNHPj4xIEFroDG848J-64" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ARMOIRE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10.19;" parent="1" vertex="1">
           <mxGeometry x="469" y="135" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TchNHPj4xIEFroDG848J-65" value="&lt;div&gt;R&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;X&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;rotation=-15;" parent="1" vertex="1">
+        <mxCell id="TchNHPj4xIEFroDG848J-65" value="&lt;div&gt;RELAX&lt;/div&gt;&lt;div&gt;/&lt;br&gt;&lt;/div&gt;&lt;div&gt;FAUTEUIL&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="130" y="450" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TchNHPj4xIEFroDG848J-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;arcSize=0;rotation=-15;" parent="1" vertex="1">
@@ -178,7 +178,7 @@
         <mxCell id="WkIkqAgkAF1c_FRq6uk9-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;direction=north;rotation=5;size=33.940000000000055;" vertex="1" parent="1">
           <mxGeometry x="1479.3" y="511.09" width="150.65" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WkIkqAgkAF1c_FRq6uk9-4" value="&lt;div&gt;RELAX&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="WkIkqAgkAF1c_FRq6uk9-4" value="&lt;div&gt;RELAX&lt;/div&gt;&lt;div&gt;/ FAUTEUIL&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;rotation=15;" vertex="1" parent="1">
           <mxGeometry x="1484.63" y="538.59" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="WkIkqAgkAF1c_FRq6uk9-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10.19;" vertex="1" parent="1">
