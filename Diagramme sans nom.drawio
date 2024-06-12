@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T08:49:15.973Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="ylbxzYD1oXkyvhcIeOra" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T08:52:54.645Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="IgCLztN2vdjBii8e17eX" version="24.5.3" type="github">
   <diagram name="Page-1" id="lKbQUw9RVPmazEnuOnoC">
-    <mxGraphModel dx="1368" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="789" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,6 +58,9 @@
               <mxPoint x="345" y="319" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="96W-rycw6KNxEAgTsfMm-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="96W-rycw6KNxEAgTsfMm-6" target="96W-rycw6KNxEAgTsfMm-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="96W-rycw6KNxEAgTsfMm-6" value="PÉRIODES" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="400" width="120" height="80" as="geometry" />
@@ -136,7 +139,7 @@
         <mxCell id="96W-rycw6KNxEAgTsfMm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="96W-rycw6KNxEAgTsfMm-50" target="96W-rycw6KNxEAgTsfMm-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="96W-rycw6KNxEAgTsfMm-50" value="Technos qualifiées" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="96W-rycw6KNxEAgTsfMm-50" value="Méthodologies qualifiées" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="190" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="96W-rycw6KNxEAgTsfMm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="96W-rycw6KNxEAgTsfMm-51" target="96W-rycw6KNxEAgTsfMm-48">
@@ -147,6 +150,12 @@
         </mxCell>
         <mxCell id="96W-rycw6KNxEAgTsfMm-56" value="..." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="1840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="96W-rycw6KNxEAgTsfMm-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="96W-rycw6KNxEAgTsfMm-61" target="96W-rycw6KNxEAgTsfMm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96W-rycw6KNxEAgTsfMm-61" value="Draft des missions accomplies" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
