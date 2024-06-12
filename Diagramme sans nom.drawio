@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T08:34:06.949Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="IusJfV0oQOb-4l5sDs0-" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T08:35:33.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="w_fIUEnAxFPgXiNjJR_D" version="24.5.3" type="github">
   <diagram name="Page-1" id="lKbQUw9RVPmazEnuOnoC">
     <mxGraphModel dx="708" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="96W-rycw6KNxEAgTsfMm-9" value="MÉTHODOLOGIE S AGILE UTILISÉES" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="96W-rycw6KNxEAgTsfMm-11" value="PROFIL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="96W-rycw6KNxEAgTsfMm-11" value="PROFIL (dev, scrum, lead, front, back)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="96W-rycw6KNxEAgTsfMm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="96W-rycw6KNxEAgTsfMm-13" target="96W-rycw6KNxEAgTsfMm-1">
@@ -33,6 +33,9 @@
               <mxPoint x="640" y="70" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="96W-rycw6KNxEAgTsfMm-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="96W-rycw6KNxEAgTsfMm-13" target="96W-rycw6KNxEAgTsfMm-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="96W-rycw6KNxEAgTsfMm-13" value="J&#39;ai compris tous les mots, j&#39;ai bien compris merci.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Saisir une autre XP ?&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="870" width="120" height="100" as="geometry" />
@@ -52,6 +55,9 @@
         </mxCell>
         <mxCell id="96W-rycw6KNxEAgTsfMm-6" value="PÉRIODES" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="96W-rycw6KNxEAgTsfMm-20" value="Voilà le template que tu peux copier-coller dans Napta (lien de la doc)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
